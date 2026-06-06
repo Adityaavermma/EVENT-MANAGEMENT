@@ -29,3 +29,4 @@ A console-based Event Management System developed in C that allows users to disc
 ```bash
 gcc event_management.c -o event_management
 ./event_management
+done
